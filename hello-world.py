@@ -15,3 +15,7 @@ for avto in avtolar:
         print ('\n', avto.upper(), '\n')
     else:
         print(avto.title())
+        
+        
+        
+        
